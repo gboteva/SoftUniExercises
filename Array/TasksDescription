@@ -29,4 +29,4 @@ The program modify the elements of given array with integers after receiving  di
         10).  The final task is called "Treasure Hunt"
 This program manages the state of the treasure chest (array) along the way. On the first line receives the initial loot of the treasure chest, which is a string of items separated by a "|". After that, until specific command, the program receives different commands, which manipulating treasure chest (array). 
 
-        P.S. In every folder with code has a word file with detailed description of tasks and test data.
+       P.S. In every folder with code has a word file with detailed description of tasks and test data.
