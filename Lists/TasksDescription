@@ -1,4 +1,4 @@
-        1.	Folder named “Ex” contains 10 files with source code, presenting completed tasks of exercices.
+        1.	Folder named “Ex” contains 10 files with source code, presenting completed tasks of exercises.
             1.1.	 First task is named “Train”.
 Given list of integers, representing the number of passengers in each wagon, has manipulated witch given commands. Nothing interesting. :)
              1.2.	Second task is named “Change List”
@@ -20,7 +20,7 @@ This program receive a integer sequence and by given commands and indexes, incre
             1.10.	The final task is named “SoftUni Course Planning”
 This program receive  the initial schedule of lessons and exercises and by given commands add, insert, remove or swap position of current lesson or exercise or both.
       
-      2.	Folder named MoreEx contains 5 files with source code, presenting completed tasks of “More exercices"
+      2.	Folder named MoreEx contains 5 files with source code, presenting completed tasks of “More exercises"
             2.1.	First task is named “Messaging”.
 This program simulating writing SMS by old phone with buttons.
             2.2.	Next task Is named “Car Race”
